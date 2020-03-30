@@ -20,6 +20,7 @@ my_pid: 31567
 waiting for enemy connexion...
 enemy connected
 
+
 my positions:
  |A B C D E F G H
 -+---------------
